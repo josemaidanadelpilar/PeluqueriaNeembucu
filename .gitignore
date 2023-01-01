@@ -1,0 +1,6 @@
+*.jpg
+node_modules/
+src/
+
+gulpfile.js
+fondo/

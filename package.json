@@ -1,0 +1,25 @@
+{
+  "name": "peluquerianeembucu",
+  "version": "1.0.0",
+  "description": "Proyecto sobre la pagina oficial de una peluqueria, fotos, servicios, descripcion y contacto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemaidanadelpilar/PeluqueriaNeembucu.git"
+  },
+  "author": "Jose Del Pilar Maidana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josemaidanadelpilar/PeluqueriaNeembucu/issues"
+  },
+  "homepage": "https://github.com/josemaidanadelpilar/PeluqueriaNeembucu#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1"
+  }
+}
