@@ -361,12 +361,13 @@ h3 {
   background-repeat: no-repeat;
   background-position: bottom;
   background-attachment: fixed;
-  background-image: url("https://res.cloudinary.com/dpikphrtb/image/upload/v1672590105/fondo3_hzf7ua.jpg");
+  background-image: url("https://res.cloudinary.com/dpikphrtb/image/upload/v1672619285/fondo5_ugorxp.jpg");
   background-size: cover;
   z-index: 0;
   background-color: rgba(0, 0, 0, 0.5);
 }
 .header .contenido-logo {
+  padding-top: 0;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -378,7 +379,7 @@ h3 {
 @media (min-width: 240px) {
   .header .contenido-logo {
     margin: 0;
-    height: 40rem;
+    height: 45rem;
     width: 100%;
   }
 }
@@ -409,6 +410,7 @@ h3 {
   font-size: 4rem;
   background-color: #eeeeee;
   padding: 2rem;
+  padding-top: 0;
 }
 @media (min-width: 240px) {
   .navegacion-principal {
@@ -453,7 +455,7 @@ h3 {
 }
 .navegacion-principal .link:hover {
   cursor: pointer;
-  color: red;
+  color: rgb(255, 0, 0);
 }
 
 .logo-small {
@@ -493,21 +495,26 @@ h3 {
   background-repeat: no-repeat;
   background-position: bottom;
   background-attachment: fixed;
-  background-image: url("https://res.cloudinary.com/dpikphrtb/image/upload/v1672590105/fondo1_emqktc.jpg");
+  background-image: url("https://res.cloudinary.com/dpikphrtb/image/upload/v1672604491/fondo1_qwuqli.jpg");
   background-size: cover;
   font-weight: 300;
   color: #FFF;
 }
 .nosotros .contenido-nosotros {
-  background-color: rgba(0, 0, 0, 0.6);
   overflow: hidden;
   text-align: center;
   font-family: "Open Sans", sans-serif;
 }
+.nosotros .contenido-nosotros h3 {
+  font-weight: 300;
+  font-size: 5rem;
+}
 .nosotros .contenido-nosotros p {
   color: #FFF;
+  font-size: 2rem;
 }
 .nosotros .contenido-nosotros #nosotros-selector {
   border: 1px solid #FFF;
   font-weight: 300;
+  font-size: 3rem;
 }
