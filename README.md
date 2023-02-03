@@ -3,7 +3,7 @@ Este proyecto es un sitio web para promocionar una peluquería. El sitio incluye
 
 # Tecnologías utilizadas
 HTML, CSS y JavaScript para el diseño y funcionalidad del sitio web
-Vue.js como marco de JavaScript para construir la interfaz de usuario
+Node.js como marco de JavaScript para construir la interfaz de usuario
 gulp.js como automatizador de tareas para compilar y optimizar el código
 # Requisitos
 Un navegador web compatible con HTML5, CSS3 y JavaScript
